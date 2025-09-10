@@ -61,6 +61,7 @@ torch
 torch-geometric
 matplotlib
 ```
+---
 ## ▶️ Usage
 
 Train a model with one command:
@@ -78,7 +79,7 @@ Options:
 -	`--model`: `gcn`, `sage`, or `gat`
 -	`--dataset`: `Cora` or `Citeseer`
 -	`--epochs`: number of training epochs (default: 200)
-
+---
 ## 📊 Results
 | Model         | Cora (Test Acc) | Citeseer (Test Acc) |
 | ------------- | --------------- | ------------------- |
@@ -88,6 +89,7 @@ Options:
 
 
 Plots available in `results/`.
+---
 ## 📄 Report
 
 A concise **2-page PDF report** is included in `report/`, discussing:
@@ -96,6 +98,7 @@ A concise **2-page PDF report** is included in `report/`, discussing:
 -	Accuracy comparison
 -	Analysis of trade-offs
 -	Conclusion + next steps
+---
 ## 🔮 Next Steps
 
 -	Extend to graph classification (e.g., molecules, OGB datasets)
