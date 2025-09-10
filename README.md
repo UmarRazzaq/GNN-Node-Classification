@@ -89,6 +89,7 @@ Options:
 
 
 Plots available in `results/`.
+
 ---
 ## 📄 Report
 
@@ -104,6 +105,7 @@ A concise **2-page PDF report** is included in `report/`, discussing:
 -	Extend to graph classification (e.g., molecules, OGB datasets)
 -	Add link prediction experiments
 -	Explore self-supervised GNNs (e.g., GraphCL, DGI)
+---
 ## 🙌 Acknowledgments
 -	[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/)
 -	Original GNN papers (Kipf & Welling 2017, Hamilton et al. 2017, Veličković et al. 2018)
