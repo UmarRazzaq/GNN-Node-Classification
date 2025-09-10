@@ -106,6 +106,8 @@ A concise **2-page PDF report** is included in `report/`, discussing:
 -	Add link prediction experiments
 -	Explore self-supervised GNNs (e.g., GraphCL, DGI)
 ---
-## 🙌 Acknowledgments
+## 📚 References
 -	[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/)
--	Original GNN papers (Kipf & Welling 2017, Hamilton et al. 2017, Veličković et al. 2018)
+-	Kipf & Welling (2017): Semi-Supervised Classification with Graph Convolutional Networks
+-  Hamilton et al. (2017): Inductive Representation Learning on Large Graphs (GraphSAGE)
+-  Veličković et al. (2018): Graph Attention Networks
