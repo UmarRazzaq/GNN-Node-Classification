@@ -100,12 +100,6 @@ A concise **2-page PDF report** is included in `report/`, discussing:
 -	Analysis of trade-offs
 -	Conclusion + next steps
 ---
-## 🔮 Next Steps
-
--	Extend to graph classification (e.g., molecules, OGB datasets)
--	Add link prediction experiments
--	Explore self-supervised GNNs (e.g., GraphCL, DGI)
----
 ## 📚 References
 -	[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/)
 -	Kipf & Welling (2017): Semi-Supervised Classification with Graph Convolutional Networks
